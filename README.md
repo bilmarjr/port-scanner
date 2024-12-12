@@ -1,7 +1,7 @@
 # port-scanner
  simple Python script to scan a single port on a target IP address.
 
-## Usage
+## Usage basic
 * clone repo
 * run script
 * enter IP address when prompted
